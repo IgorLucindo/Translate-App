@@ -8,7 +8,7 @@ Aplicativo de celular que permiti traduzir escritas e falas em texto de um idiom
 
 Muitas pessoas justificam a não adesão a dietas pela dificuldade em se planejar para preparar refeições e comprar alimentos para variar o cardápio sem sair da dieta.
 
-Estrageiros que não dominam a fluencia da língua do pais local encontram-se muita das vezes com a comunicação comprometida. Assim o aplicativo entrará para facilitar a comunicação dessas pessoas de forma prática, com a distância de um clique.
+Estrangeiros que não dominam a fluencia da língua do pais local encontram-se muita das vezes com a comunicação comprometida. Assim o aplicativo entrará para facilitar a comunicação dessas pessoas de forma prática, com a distância de um clique.
 
 # **Funcionamento**
 
