@@ -1,10 +1,10 @@
 # **Proposta de projeto** 
 
-Aplicativo de celular que permiti traduzir escritas e falas em texto de um idioma de escolha do usuário de maneira prática e divertida de utilizar.
+Aplicativo de celular que permiti traduzir escritas e falas em texto de um idioma de escolha do usuário de maneira prática.
 
 # **Motivação** 
 
-Estrangeiros que não dominam a fluencia da língua do pais local encontram-se muita das vezes com a comunicação comprometida. Assim o aplicativo entrará para facilitar a comunicação dessas pessoas de forma prática, com a distância de um clique.
+Ajudar na comunicação de estrangeiros que não possuem domínio sobre língua local com o seu redor. Assim nosso aplicativo virá para facilitar a comunicação dessas pessoas de forma prática, com a distância de um clique.
 
 # **Funcionamento**
 
